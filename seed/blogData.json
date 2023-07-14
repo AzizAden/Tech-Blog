@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Introduction to JavaScript",
+      "description": "A beginner's guide to JavaScript programming.",
+      "user_id": 1
+    },
+    {
+      "title": "Advanced CSS Techniques",
+      "description": "Explore advanced CSS techniques for modern web development.",
+      "user_id": 2
+    },
+    {
+      "title": "Database Management with SQL",
+      "description": "Learn the fundamentals of database management using SQL.",
+      "user_id": 3
+    },
+    {
+      "title": "Building RESTful APIs with Node.js",
+      "description": "Discover how to build RESTful APIs using Node.js and Express.",
+      "user_id": 4
+    },
+    {
+      "title": "Introduction to React",
+      "description": "Get started with React framework and build dynamic web applications.",
+      "user_id": 5
+    }
+  ]
+  

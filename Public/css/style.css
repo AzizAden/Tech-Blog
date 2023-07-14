@@ -1,0 +1,110 @@
+body {
+    background-color: darkcyan;
+  }
+  
+  .navTitle {
+    font-weight: 900;
+    font-size: xx-large;
+  }
+  
+  .blogBox {
+    margin-top: 8px;
+    border-style: solid;
+  }
+  
+  .blogTitle {
+    text-decoration: none;
+    color: teal;
+  }
+  
+  .blogDesc {
+    border-style: solid;
+    margin-bottom: 5px;
+    padding: 2px;
+    background-color: teal;
+  }
+  
+  .blogDescMain {
+    font-weight: 700;
+  }
+  
+  .blogDescTwo {
+    font-size: 25px;
+    font-style: italic;
+  }
+  
+  .blogCreate {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 12px;
+    padding: 5px;
+    color: teal;
+  }
+  
+  .blogBoxCont {
+    margin-top: 10px;
+    border-style: solid;
+    background-color: teal;
+  }
+  
+  .formCont {
+    margin-top: 10px;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .commentCont {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 75%;
+    background-color: teal;
+  }
+  
+  .commentOwner {
+    font-size: 14px;
+  }
+  
+  .btnComment {
+    margin-top: 10px;
+  }
+  
+  .commentText {
+    font-weight: bold;
+    padding-top: 10px;
+  }
+  
+  .commentCont {
+    border-style: dashed;
+  }
+  
+  .headerRow {
+    background-color: black;
+    margin-bottom: 10px;
+  }
+  
+  a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  .login {
+    margin-left: 25px;
+  }
+  
+  .signup {
+    margin-left: 25px;
+  }
+  
+  .form-group {
+    margin-top: 10px;
+  }
+  
